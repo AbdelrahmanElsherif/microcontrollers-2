@@ -1,6 +1,5 @@
 #include "tm4c123gh6pm.h"
 #include "PWM.h"
-#include "ana.h"
 #include "UART.h"
 #include "ADC.h"
 #include "delay.h"
